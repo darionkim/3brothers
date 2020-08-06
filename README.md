@@ -1,2 +1,3 @@
 # 3brothers
-Created with CodeSandbox
+
+I am coding React with SoMA and Jason.
